@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C4CA6FEB-4C16-0F9C-CB30-89AB4EED1C43}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestNetworkProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
